@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .custom{
+    font-family:Helvetica;
+  }
+  .title{
+    font-family:"bungee Spice";
+    font-size: 50px;
+  }
+  .story{
+    font-family:Helvetica;
+  }
+  .future{
+    font-family:Helvetica;
+  }
